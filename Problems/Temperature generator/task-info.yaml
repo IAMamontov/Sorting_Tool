@@ -1,0 +1,13 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: "fun generateTemperature(seed: Int){\n    // write your code here, Random\
+    \ is already imported for you \n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11805#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 10 Dec 2020 20:05:21 UTC
+record: -1
